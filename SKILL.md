@@ -3,8 +3,9 @@ name: rational-apologetics-method
 description: Develop clear, honest arguments for faith that respect both rigorous logic and authentic mystery.
 license: MIT
 metadata:
+  version: 1.0.4796
   author: sethmblack
-  version: 1.0.1
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - compression
 - rational-apologetics-method
